@@ -11,8 +11,8 @@ redirect_from:
 -----------------------
 Education
 ======
-* B.S. in Xiamen, Xiamen University, 2015-2019
-* M.S. in Xiamen, Xiamen University, 2019-2022 Tutor ([Jinsong Su](https://cdmc.xmu.edu.cn/info/1010/1054.htm))
+* B.S. in Xiamen, Xiamen University, 2015-2019.
+* M.S. in Xiamen, Xiamen University, 2019-2022. *Tutor* ([Jinsong Su](https://cdmc.xmu.edu.cn/info/1010/1054.htm))
 
 Work experience
 ======
