@@ -12,18 +12,22 @@ I received the B.S. and M.S. degree from Xiamen University, Xiamen, China. Curre
 
 Research Field
 ======
-Natural Language Processing, Controllable Text Generation, Machine Translation, Multimodal Pretrained Language Model
+Natural Language Processing, Controllable Text Generation, Machine Translation, Multimodal Pretrained Model
 
-Getting started
+Publication
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+**Chulun Zhou**, Fandong Meng, Jie Zhou, Min Zhang, Hongji Wang, Jinsong Su. Confidence Based Bidirectional Global Context Aware Training Framework for Neural Machine Translation. ACL 2022.
+    Yunlong Liang*, **Chulun Zhou***, Fandong Meng, Jinan Xu, Yufeng Chen, Jinsong Su and Jie Zhou. Towards Making the Most of Dialogue Characteristics for Neural Chat Translation. EMNLP 2021.
+    Hui Jiang*, **Chulun Zhou***, Fandong Meng, Biao Zhang, Jie Zhou, Degen Huang, Qingqiang Wu, Jinsong Su. Exploring Dynamic Selection of Branch Expansion Orders for Code Generation. ACL 2021.
+    **Chulun Zhou**, Liangyu Chen, Jiachen Liu, Xinyan Xiao, Jinsong Su, Sheng Guo, Hua Wu. Exploring Contextual Word-level Style Relevance for Unsupervised Style Transfer. ACL 2020.
+    Yongjing Yin, Fandong Meng, Jinsong Su, **Chulun Zhou**, Zhengyuan Yang, Jie Zhou, Jiebo Luo. A Novel Graph-based Multi-modal Fusion Encoder for Neural Machine Translation ACL 2020.
+    Junxuan Chen, Xiang Li, Jiarui Zhang, **Chulun Zhou**, Jianwei Cui, Bin Wang, Jinsong Su. Modeling Discourse Structure for Document-level Neural Machine Translation. ACL 2020 Workshop.
+    Yongjing Yin, Linfeng Song, Jinsong Su, Jiali Zeng, **Chulun Zhou** and Jiebo Luo. Graph-based Neural Sentence Ordering. IJCAI 2019.
+    **Chulun Zhou**, Zhihao Wang, Shaojie He, Haiying Zhang, Jinsong Su. A Novel Multi-domain Machine Reading Comprehension Model with Domain Interference Mitigation. Neurocomputing.
+    Yongjing Yin, Shaopeng Lai, Linfeng Song, **Chulun Zhou**, Xianpei Han, Junfeng Yao and Jinsong Su. An External Knowledge Enhanced Graph-based Neural Network for Sentence Ordering. JAIR.
+    Jinsong Su, Jinchang Chen, Hui Jiang, **Chulun Zhou**, Huan Lin, Yubin Ge, Qingqiang Wu and Yongxuan Lai. Multi-modal Neural Machine Translation with Deep Semantic Interactions. Information Science.
 
-Site-wide configuration
+Award
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
