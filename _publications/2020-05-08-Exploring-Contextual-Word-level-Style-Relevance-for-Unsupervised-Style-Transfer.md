@@ -2,7 +2,7 @@
 title: "Exploring Contextual Word-level Style Relevance for Unsupervised Style Transfer."
 collection: publications
 permalink: /publication/2020-05-08-Exploring-Contextual-Word-level-Style-Relevance-for-Unsupervised-Style-Transfer
-excerpt: 'Unsupervised style transfer aims to change the style of an input sentence while preserving its original content without using parallel training data....'
+excerpt: 'Unsupervised style transfer aims to change the style of an input sentence while preserving its original content without using parallel training data...'
 date: 2020-05-08
 venue: 'ACL 2020'
 paperurl: 'https://arxiv.org/pdf/2005.02049.pdf'
