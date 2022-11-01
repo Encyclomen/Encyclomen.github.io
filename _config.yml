@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Chulun Zhou"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "---------------------"
   location         : "Beijing, China"
   employer         : "Wechat AI, Tencent"
   googlescholar    : "https://scholar.google.com/citations?user=c3IPW_8AAAAJ&hl"
-  email            : "clzhou@stu.xmu.edu.cn"
+  email            : "clzhou@stu.xmu.edu.cn; zclxmu1997@outlook.com"
   wechat           : "zcl597182671"
 
 
