@@ -51,5 +51,6 @@ __\-__ Undergraduate Academic First Prize Scholarship，Xiamen University, 2016 
 Skills
 ------
 Programming: Python, C++ <br>
+Tools for NLP/DL: Fairseq, Huggingface, Deepspeed
 Language Proficiency: Chinese Mandarin (Native), English (Advanced), Japanese (Basic) <br>
 
