@@ -16,16 +16,16 @@ Natural Language Processing, Controllable Text Generation, Machine Translation, 
 
 Publication
 ======
-<font size=3> **Chulun Zhou**, Fandong Meng, Jie Zhou, Min Zhang, Hongji Wang, Jinsong Su. *Confidence Based Bidirectional Global Context Aware Training Framework for Neural Machine Translation.* ACL 2022. <br></font>
-Yunlong Liang\*, __Chulun Zhou\*__, Fandong Meng, Jinan Xu, Yufeng Chen, Jinsong Su and Jie Zhou. *Towards Making the Most of Dialogue Characteristics for Neural Chat Translation.* EMNLP 2021. <br>
-Hui Jiang\*, __Chulun Zhou\*__, Fandong Meng, Biao Zhang, Jie Zhou, Degen Huang, Qingqiang Wu, Jinsong Su. *Exploring Dynamic Selection of Branch Expansion Orders for Code Generation.* ACL 2021. <br>
-**Chulun Zhou**, Liangyu Chen, Jiachen Liu, Xinyan Xiao, Jinsong Su, Sheng Guo, Hua Wu. *Exploring Contextual Word-level Style Relevance for Unsupervised Style Transfer.* ACL 2020. <br>
-Yongjing Yin, Fandong Meng, Jinsong Su, **Chulun Zhou**, Zhengyuan Yang, Jie Zhou, Jiebo Luo. *A Novel Graph-based Multi-modal Fusion Encoder for Neural Machine Translation.* ACL 2020. <br>
-Junxuan Chen, Xiang Li, Jiarui Zhang, **Chulun Zhou**, Jianwei Cui, Bin Wang, Jinsong Su. *Modeling Discourse Structure for Document-level Neural Machine Translation.* ACL 2020 Workshop. <br>
-Yongjing Yin, Linfeng Song, Jinsong Su, Jiali Zeng, **Chulun Zhou** and Jiebo Luo. Graph-based Neural Sentence Ordering. IJCAI 2019. <br>
-**Chulun Zhou**, Zhihao Wang, Shaojie He, Haiying Zhang, Jinsong Su. *A Novel Multi-domain Machine Reading Comprehension Model with Domain Interference Mitigation.* Neurocomputing. <br>
-Yongjing Yin, Shaopeng Lai, Linfeng Song, **Chulun Zhou**, Xianpei Han, Junfeng Yao and Jinsong Su. *An External Knowledge Enhanced Graph-based Neural Network for Sentence Ordering.* JAIR. <br>
-Jinsong Su, Jinchang Chen, Hui Jiang, **Chulun Zhou**, Huan Lin, Yubin Ge, Qingqiang Wu and Yongxuan Lai. *Multi-modal Neural Machine Translation with Deep Semantic Interactions.* Information Science. <br>
+\*. **Chulun Zhou**, <font size=3> Fandong Meng, Jie Zhou, Min Zhang, Hongji Wang, Jinsong Su. *Confidence Based Bidirectional Global Context Aware Training Framework for Neural Machine Translation.* ACL 2022. <br>
+\*. Yunlong Liang\*, __Chulun Zhou\*__, Fandong Meng, Jinan Xu, Yufeng Chen, Jinsong Su and Jie Zhou. *Towards Making the Most of Dialogue Characteristics for Neural Chat Translation.* EMNLP 2021. <br>
+\*. Hui Jiang\*, __Chulun Zhou\*__, Fandong Meng, Biao Zhang, Jie Zhou, Degen Huang, Qingqiang Wu, Jinsong Su. *Exploring Dynamic Selection of Branch Expansion Orders for Code Generation.* ACL 2021. <br>
+\*. **Chulun Zhou**, Liangyu Chen, Jiachen Liu, Xinyan Xiao, Jinsong Su, Sheng Guo, Hua Wu. *Exploring Contextual Word-level Style Relevance for Unsupervised Style Transfer.* ACL 2020. <br>
+\*. Yongjing Yin, Fandong Meng, Jinsong Su, **Chulun Zhou**, Zhengyuan Yang, Jie Zhou, Jiebo Luo. *A Novel Graph-based Multi-modal Fusion Encoder for Neural Machine Translation.* ACL 2020. <br>
+\*. Junxuan Chen, Xiang Li, Jiarui Zhang, **Chulun Zhou**, Jianwei Cui, Bin Wang, Jinsong Su. *Modeling Discourse Structure for Document-level Neural Machine Translation.* ACL 2020 Workshop. <br>
+\*. Yongjing Yin, Linfeng Song, Jinsong Su, Jiali Zeng, **Chulun Zhou** and Jiebo Luo. Graph-based Neural Sentence Ordering. IJCAI 2019. <br>
+\*. **Chulun Zhou**, Zhihao Wang, Shaojie He, Haiying Zhang, Jinsong Su. *A Novel Multi-domain Machine Reading Comprehension Model with Domain Interference Mitigation.* Neurocomputing. <br>
+\*. Yongjing Yin, Shaopeng Lai, Linfeng Song, **Chulun Zhou**, Xianpei Han, Junfeng Yao and Jinsong Su. *An External Knowledge Enhanced Graph-based Neural Network for Sentence Ordering.* JAIR. <br>
+\*. Jinsong Su, Jinchang Chen, Hui Jiang, **Chulun Zhou**, Huan Lin, Yubin Ge, Qingqiang Wu and Yongxuan Lai. *Multi-modal Neural Machine Translation with Deep Semantic Interactions.* Information Science. <br>
 
 Award
 ------
