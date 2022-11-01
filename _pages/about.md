@@ -16,7 +16,7 @@ Natural Language Processing, Controllable Text Generation, Machine Translation, 
 
 Publication
 ======
-**Chulun Zhou**, Fandong Meng, Jie Zhou, Min Zhang, Hongji Wang, Jinsong Su. *Confidence Based Bidirectional Global Context Aware Training Framework for Neural Machine Translation.* ACL 2022. <br>
+<font size=5>**Chulun Zhou**, Fandong Meng, Jie Zhou, Min Zhang, Hongji Wang, Jinsong Su. *Confidence Based Bidirectional Global Context Aware Training Framework for Neural Machine Translation.* ACL 2022. <br></font>
 Yunlong Liang\*, __Chulun Zhou\*__, Fandong Meng, Jinan Xu, Yufeng Chen, Jinsong Su and Jie Zhou. *Towards Making the Most of Dialogue Characteristics for Neural Chat Translation.* EMNLP 2021. <br>
 Hui Jiang\*, __Chulun Zhou\*__, Fandong Meng, Biao Zhang, Jie Zhou, Degen Huang, Qingqiang Wu, Jinsong Su. *Exploring Dynamic Selection of Branch Expansion Orders for Code Generation.* ACL 2021. <br>
 **Chulun Zhou**, Liangyu Chen, Jiachen Liu, Xinyan Xiao, Jinsong Su, Sheng Guo, Hua Wu. *Exploring Contextual Word-level Style Relevance for Unsupervised Style Transfer.* ACL 2020. <br>
