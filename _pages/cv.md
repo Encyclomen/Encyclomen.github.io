@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+-----------------------
 Education
 ======
 * B.S. in Xiamen, Xiamen University, 2015-2019
