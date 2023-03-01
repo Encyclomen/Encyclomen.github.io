@@ -1,5 +1,5 @@
 ---
-title: "Towards Making the Most of Dialogue Characteristics for Neural Chat Translation."
+title: "Towards Making the Most of Dialogue Characteristics for Neural Chat Translation"
 collection: publications
 excerpt: 'Neural Chat Translation (NCT) aims to translate conversational text between speakers of different languages...'
 date: 2021-08-25
