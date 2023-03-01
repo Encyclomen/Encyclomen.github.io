@@ -1,7 +1,7 @@
 ---
 title: "A Multi-Task Multi-Stage Transitional Training Framework for Neural Chat Translation."
 collection: publications
-permalink: /publication/2020-05-08-Exploring-Contextual-Word-level-Style-Relevance-for-Unsupervised-Style-Transfer
+permalink: /publication/2022-12-30-A-Multitask-Multistage-Transitional-Training-Framework-for-Neural-Chat-Translation
 excerpt: 'Neural chat translation (NCT) aims to translate a cross-lingual chat between speakers of different languages. Existing context-aware NMT models cannot...'
 date: 2022-12-30
 journal: 'IEEE Transactions on Pattern Analysis and Machine Intelligence'
