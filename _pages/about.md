@@ -16,6 +16,8 @@ Natural Language Processing, Controllable Text Generation, Machine Translation, 
 
 Publications
 ------
+#### **2023**
+__\-__ **Chulun Zhou**, Yunlong Liang, Fandong Meng, Jinan Xu, Jinsong Su, Jie Zhou. *RC3: Regularized Contrastive Cross-lingual Cross-modal Pre-training.* ACL 2023 Findings. <br>
 #### **2022**
 __\-__ **Chulun Zhou**, Yunlong Liang, Fandong Meng, Jie Zhou, Jinan Xu, Hongji Wang, Min Zhang, Jinsong Su. *A Multi-Task Multi-Stage Transitional Training Framework for Neural Chat Translation.* TPAMI. <br>
 __\-__ Zhongjian Miao, Xiang Li, Liyan Kang, Wen Zhang, **Chulun Zhou**, Yidong Chen, Bin Wang, Min Zhang, Jinsong Su. *Towards Robust Neural Machine Translation with Iterative Scheduled Data-Switch Training.* COLING 2022. <br>
