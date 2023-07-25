@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I received the B.S. and M.S. degree from Xiamen University, Xiamen, China. Currently, I work as a researcher in Pattern Recognition Center, WeChat AI, Tencent Inc, Beijing.
+I am a PhD student at CUHK Text-Mining Group, supervised by Prof. Lam Wai. Previously, I worked as a researcher in Pattern Recognition Center, WeChat AI, Tencent Inc, Beijing (2022-2023). Before that, I received my B.S. degree (2015-2019) and M.S. degree (2019-2022) from Xiamen University, supervised by Prof. Su Jinsong.
 
 Research Fields
 ======
@@ -17,9 +17,9 @@ Natural Language Processing, Controllable Text Generation, Machine Translation, 
 Publications
 ------
 #### **2023**
+__\-__ **Chulun Zhou**, Yunlong Liang, Fandong Meng, Jie Zhou, Jinan Xu, Hongji Wang, Min Zhang, Jinsong Su. *A Multi-Task Multi-Stage Transitional Training Framework for Neural Chat Translation.* TPAMI. <br>
 __\-__ **Chulun Zhou**, Yunlong Liang, Fandong Meng, Jinan Xu, Jinsong Su, Jie Zhou. *RC3: Regularized Contrastive Cross-lingual Cross-modal Pre-training.* ACL 2023 Findings. <br>
 #### **2022**
-__\-__ **Chulun Zhou**, Yunlong Liang, Fandong Meng, Jie Zhou, Jinan Xu, Hongji Wang, Min Zhang, Jinsong Su. *A Multi-Task Multi-Stage Transitional Training Framework for Neural Chat Translation.* TPAMI. <br>
 __\-__ Zhongjian Miao, Xiang Li, Liyan Kang, Wen Zhang, **Chulun Zhou**, Yidong Chen, Bin Wang, Min Zhang, Jinsong Su. *Towards Robust Neural Machine Translation with Iterative Scheduled Data-Switch Training.* COLING 2022. <br>
 __\-__ Hui Jiang, Ziyao Lu, Fandong Meng, **Chulun Zhou**, Jie Zhou, Degen Huang, Jinsong Su. *Towards Robust k-Nearest-Neighbor Machine Translation.* EMNLP 2022. <br>
 __\-__ Yunlong Liang, Fandong Meng, **Chulun Zhou**, Jinan Xu, Yufeng Chen, Jinsong Su, Jie Zhou. *A Variational Hierarchical Model for Neural Cross-Lingual Summarization.* EMNLP 2022. <br>
