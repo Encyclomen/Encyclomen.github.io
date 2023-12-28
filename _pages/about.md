@@ -17,6 +17,7 @@ Natural Language Processing, Controllable Text Generation, Machine Translation, 
 Publications
 ------
 #### **2023**
+__\-__ Liang Zhang\*, __Chulun Zhou\*__, Fandong Meng, Jinsong Su, Yidong Chen, Jie Zhou. *HyperNetwork-based Decoupling to Improve Model Generalization for Few-Shot Relation Extraction.* EMNLP 2023. <br>
 __\-__ **Chulun Zhou**, Yunlong Liang, Fandong Meng, Jie Zhou, Jinan Xu, Hongji Wang, Min Zhang, Jinsong Su. *A Multi-Task Multi-Stage Transitional Training Framework for Neural Chat Translation.* TPAMI. <br>
 __\-__ **Chulun Zhou**, Yunlong Liang, Fandong Meng, Jinan Xu, Jinsong Su, Jie Zhou. *RC3: Regularized Contrastive Cross-lingual Cross-modal Pre-training.* ACL 2023 Findings. <br>
 #### **2022**
