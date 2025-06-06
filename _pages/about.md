@@ -17,7 +17,7 @@ Large Language Models, Natural Language Processing, Machine Translation, Multimo
 Publications
 ------
 #### **2025**
-__\-__ __Chulun Zhou\*__, Qiujing Wang\*, Mo Yu, Xiaoqian Yue, Rui Lu, Jiangnan Li, Yifan Zhou, Shunchi Zhang, Jie Zhou, Wai Lam. *The Essence of Contextual Understanding in Theory of Mind: A Study on Question Answering with Story Characters.* under review. <br>
+__\-__ __Chulun Zhou\*__, Qiujing Wang\*, Mo Yu, Xiaoqian Yue, Rui Lu, Jiangnan Li, Yifan Zhou, Shunchi Zhang, Jie Zhou, Wai Lam. *The Essence of Contextual Understanding in Theory of Mind: A Study on Question Answering with Story Characters.* ACL 2025. <br>
 #### **2023**
 __\-__ Liang Zhang\*, __Chulun Zhou\*__, Fandong Meng, Jinsong Su, Yidong Chen, Jie Zhou. *HyperNetwork-based Decoupling to Improve Model Generalization for Few-Shot Relation Extraction.* EMNLP 2023. <br>
 __\-__ **Chulun Zhou**, Yunlong Liang, Fandong Meng, Jie Zhou, Jinan Xu, Hongji Wang, Min Zhang, Jinsong Su. *A Multi-Task Multi-Stage Transitional Training Framework for Neural Chat Translation.* TPAMI. <br>
