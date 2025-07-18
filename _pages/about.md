@@ -12,7 +12,7 @@ I am a PhD student at CUHK Text-Mining Group, supervised by Prof. Lam Wai. Previ
 
 Research Fields
 ======
-Large Language Models, Natural Language Processing, Machine Translation, Multimodal Pretrained Model
+Natural Language Processing, Large Language Models, Machine Translation, Multimodal Pretrained Model, Story Comprehension, Retrieval-Augmented Generation
 
 Publications
 ------
