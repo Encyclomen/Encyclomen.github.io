@@ -17,7 +17,7 @@ Natural Language Processing, Large Language Models, Machine Translation, Multimo
 Publications
 ------
 #### **2025**
-__\-__ Mo Yu, Tsz Ting Chung, __Chulun Zhou\*__, Tong Li , Rui Lu, Jiangnan Li, Liyan Xu, Haoshu Lu,Ning Zhang,Jing Li, Jie Zhou. *PRELUDE: A Benchmark Designed to Require Global Comprehension and Reasoning over Long Contexts.* under review. <br>
+__\-__ Mo Yu, Tsz Ting Chung, __Chulun Zhou\*__, Tong Li, Rui Lu, Jiangnan Li, Liyan Xu, Haoshu Lu, Ning Zhang, Jing Li, Jie Zhou. *PRELUDE: A Benchmark Designed to Require Global Comprehension and Reasoning over Long Contexts.* under review. <br>
 __\-__ __Chulun Zhou\*__, Qiujing Wang\*, Mo Yu, Xiaoqian Yue, Rui Lu, Jiangnan Li, Yifan Zhou, Shunchi Zhang, Jie Zhou, Wai Lam. *The Essence of Contextual Understanding in Theory of Mind: A Study on Question Answering with Story Characters.* ACL 2025. <br>
 #### **2023**
 __\-__ Liang Zhang\*, __Chulun Zhou\*__, Fandong Meng, Jinsong Su, Yidong Chen, Jie Zhou. *HyperNetwork-based Decoupling to Improve Model Generalization for Few-Shot Relation Extraction.* EMNLP 2023. <br>
