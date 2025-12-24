@@ -11,10 +11,10 @@ redirect_from:
 Education
 ======
 * B.S., Xiamen University, 2015-2019.
-* M.S., Xiamen University, 2019-2022. *Tutor* ([Jinsong Su](https://cdmc.xmu.edu.cn/info/1010/1054.htm))
-* Ph.D., The Chinese University of Hong Kong, 2023-now.
+* M.S., Xiamen University, 2019-2022. *Supervisor* ([Jinsong Su](https://cdmc.xmu.edu.cn/info/1010/1054.htm))
+* Ph.D., The Chinese University of Hong Kong, 2023-now. *Supervisor* ([Lam Wai](https://www1.se.cuhk.edu.hk/~textmine/))
 
-Work experience
+Work/Internship experience
 ======
 * AIG, Baidu: Research Intern
   * 2019.02-2019.09 
