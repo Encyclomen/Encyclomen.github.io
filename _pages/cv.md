@@ -10,8 +10,9 @@ redirect_from:
 {% include base_path %}
 Education
 ======
-* B.S. in Xiamen, Xiamen University, 2015-2019.
-* M.S. in Xiamen, Xiamen University, 2019-2022. *Tutor* ([Jinsong Su](https://cdmc.xmu.edu.cn/info/1010/1054.htm))
+* B.S., Xiamen University, 2015-2019.
+* M.S., Xiamen University, 2019-2022. *Tutor* ([Jinsong Su](https://cdmc.xmu.edu.cn/info/1010/1054.htm))
+* Ph.D., The Chinese University of Hong Kong, 2023-now.
 
 Work experience
 ======
@@ -21,6 +22,10 @@ Work experience
   * Supervisor: [Xinyan Xiao](https://scholar.google.com/citations?hl=zh-CN&user=lWRYa3wAAAAJ)
 
 * Wechat AI, Tencent: Researcher
-  * 2020.07-now
-  * Research Field: Machine Translation, Chat Translation, Model Compression
-  * Supervisor: [Fandong Meng](https://fandongmeng.github.io/)
+  * 2020.07-2025.11
+  * Research Field: Machine Translation, Chat Translation, Long Context Comprehension, Agentic Memory
+  * Supervisor: [Fandong Meng](https://fandongmeng.github.io/) , [Mo Yu](https://sites.google.com/site/moyunlp/)
+
+* Qwen Team, Alibaba: Research Intern
+  * 2025.11-now
+  * Research Field: Rubric-based Evaluation, Long Context Comprehension, Agentic Memory
