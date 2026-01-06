@@ -34,7 +34,7 @@ __\-__ *RC3: Regularized Contrastive Cross-lingual Cross-modal Pre-training.* (A
 #### **2022**
 __\-__ *Towards Robust Neural Machine Translation with Iterative Scheduled Data-Switch Training.* (COLING 2022) <br>
 Zhongjian Miao, Xiang Li, Liyan Kang, Wen Zhang, **Chulun Zhou**, Yidong Chen, Bin Wang, Min Zhang, Jinsong Su. <br>
-__\-__ *Towards Robust k-Nearest-Neighbor Machine Translation.* (EMNLP 2022). <br>
+__\-__ *Towards Robust k-Nearest-Neighbor Machine Translation.* (EMNLP 2022) <br>
 Hui Jiang, Ziyao Lu, Fandong Meng, **Chulun Zhou**, Jie Zhou, Degen Huang, Jinsong Su. <br>
 __\-__ *A Variational Hierarchical Model for Neural Cross-Lingual Summarization.* (EMNLP 2022) <br>
 Yunlong Liang, Fandong Meng, **Chulun Zhou**, Jinan Xu, Yufeng Chen, Jinsong Su, Jie Zhou. <br>
