@@ -17,19 +17,19 @@ Natural Language Processing, Large Language Models, Machine Translation, Multimo
 Publications
 ------
 #### **2026**
-__\-__ __Chulun Zhou\*__, Chunkang Zhang\*, Guoxin Yu, Fandong Meng, Jie Zhou, Wai Lam, Mo Yu. *Improving Multi-step RAG with Hypergraph-based Memory for Long-Context Complex Relational Modeling* Preprint. <br>
+__\-__ *Improving Multi-step RAG with Hypergraph-based Memory for Long-Context Complex Relational Modeling.* __Chulun Zhou\*__, Chunkang Zhang\*, Guoxin Yu, Fandong Meng, Jie Zhou, Wai Lam, Mo Yu. (Preprint). <br>
 #### **2025**
-__\-__ Mo Yu, Tsz Ting Chung, __Chulun Zhou\*__, Tong Li, Rui Lu, Jiangnan Li, Liyan Xu, Haoshu Lu, Ning Zhang, Jing Li, Jie Zhou. *PRELUDE: A Benchmark Designed to Require Global Comprehension and Reasoning over Long Contexts.* Preprint. <br>
-__\-__ __Chulun Zhou\*__, Qiujing Wang\*, Mo Yu, Xiaoqian Yue, Rui Lu, Jiangnan Li, Yifan Zhou, Shunchi Zhang, Jie Zhou, Wai Lam. *The Essence of Contextual Understanding in Theory of Mind: A Study on Question Answering with Story Characters.* ACL 2025. <br>
+__\-__ *PRELUDE: A Benchmark Designed to Require Global Comprehension and Reasoning over Long Contexts.* Mo Yu, Tsz Ting Chung, __Chulun Zhou\*__, Tong Li, Rui Lu, Jiangnan Li, Liyan Xu, Haoshu Lu, Ning Zhang, Jing Li, Jie Zhou.  (Preprint). <br>
+__\-__ *The Essence of Contextual Understanding in Theory of Mind: A Study on Question Answering with Story Characters.* __Chulun Zhou\*__, Qiujing Wang\*, Mo Yu, Xiaoqian Yue, Rui Lu, Jiangnan Li, Yifan Zhou, Shunchi Zhang, Jie Zhou, Wai Lam. (ACL 2025). <br>
 #### **2023**
-__\-__ Liang Zhang\*, __Chulun Zhou\*__, Fandong Meng, Jinsong Su, Yidong Chen, Jie Zhou. *HyperNetwork-based Decoupling to Improve Model Generalization for Few-Shot Relation Extraction.* EMNLP 2023. <br>
-__\-__ **Chulun Zhou**, Yunlong Liang, Fandong Meng, Jie Zhou, Jinan Xu, Hongji Wang, Min Zhang, Jinsong Su. *A Multi-Task Multi-Stage Transitional Training Framework for Neural Chat Translation.* TPAMI. <br>
-__\-__ **Chulun Zhou**, Yunlong Liang, Fandong Meng, Jinan Xu, Jinsong Su, Jie Zhou. *RC3: Regularized Contrastive Cross-lingual Cross-modal Pre-training.* ACL 2023 Findings. <br>
+__\-__ *HyperNetwork-based Decoupling to Improve Model Generalization for Few-Shot Relation Extraction.* Liang Zhang\*, __Chulun Zhou\*__, Fandong Meng, Jinsong Su, Yidong Chen, Jie Zhou. (EMNLP 2023). <br>
+__\-__ *A Multi-Task Multi-Stage Transitional Training Framework for Neural Chat Translation.* **Chulun Zhou**, Yunlong Liang, Fandong Meng, Jie Zhou, Jinan Xu, Hongji Wang, Min Zhang, Jinsong Su. (TPAMI). <br>
+__\-__ *RC3: Regularized Contrastive Cross-lingual Cross-modal Pre-training.* **Chulun Zhou**, Yunlong Liang, Fandong Meng, Jinan Xu, Jinsong Su, Jie Zhou. (ACL 2023 Findings). <br>
 #### **2022**
-__\-__ Zhongjian Miao, Xiang Li, Liyan Kang, Wen Zhang, **Chulun Zhou**, Yidong Chen, Bin Wang, Min Zhang, Jinsong Su. *Towards Robust Neural Machine Translation with Iterative Scheduled Data-Switch Training.* COLING 2022. <br>
-__\-__ Hui Jiang, Ziyao Lu, Fandong Meng, **Chulun Zhou**, Jie Zhou, Degen Huang, Jinsong Su. *Towards Robust k-Nearest-Neighbor Machine Translation.* EMNLP 2022. <br>
-__\-__ Yunlong Liang, Fandong Meng, **Chulun Zhou**, Jinan Xu, Yufeng Chen, Jinsong Su, Jie Zhou. *A Variational Hierarchical Model for Neural Cross-Lingual Summarization.* EMNLP 2022. <br>
-__\-__ **Chulun Zhou**, Fandong Meng, Jie Zhou, Min Zhang, Hongji Wang, Jinsong Su. *Confidence Based Bidirectional Global Context Aware Training Framework for Neural Machine Translation.* ACL 2022. <br>
+__\-__ *Towards Robust Neural Machine Translation with Iterative Scheduled Data-Switch Training.* Zhongjian Miao, Xiang Li, Liyan Kang, Wen Zhang, **Chulun Zhou**, Yidong Chen, Bin Wang, Min Zhang, Jinsong Su. (COLING 2022). <br>
+__\-__ *Towards Robust k-Nearest-Neighbor Machine Translation.* Hui Jiang, Ziyao Lu, Fandong Meng, **Chulun Zhou**, Jie Zhou, Degen Huang, Jinsong Su. (EMNLP 2022). <br>
+__\-__ *A Variational Hierarchical Model for Neural Cross-Lingual Summarization.* Yunlong Liang, Fandong Meng, **Chulun Zhou**, Jinan Xu, Yufeng Chen, Jinsong Su, Jie Zhou. (EMNLP 2022). <br>
+__\-__ *Confidence Based Bidirectional Global Context Aware Training Framework for Neural Machine Translation.* **Chulun Zhou**, Fandong Meng, Jie Zhou, Min Zhang, Hongji Wang, Jinsong Su. (ACL 2022). <br>
 __\-__ **Chulun Zhou**, Zhihao Wang, Shaojie He, Haiying Zhang, Jinsong Su. *A Novel Multi-domain Machine Reading Comprehension Model with Domain Interference Mitigation.* Neurocomputing. <br>
 #### **2021**
 __\-__ Yunlong Liang\*, __Chulun Zhou\*__, Fandong Meng, Jinan Xu, Yufeng Chen, Jinsong Su and Jie Zhou. *Towards Making the Most of Dialogue Characteristics for Neural 
