@@ -17,10 +17,13 @@ Natural Language Processing, Large Language Models, Machine Translation, Multimo
 Publications
 ------
 #### **2026**
-__\-__ *Improving Multi-step RAG with Hypergraph-based Memory for Long-Context Complex Relational Modeling.* __Chulun Zhou\*__, Chunkang Zhang\*, Guoxin Yu, Fandong Meng, Jie Zhou, Wai Lam, Mo Yu. (Preprint). <br>
+__\-__ *Improving Multi-step RAG with Hypergraph-based Memory for Long-Context Complex Relational Modeling.*  (Preprint)
+__Chulun Zhou\*__, Chunkang Zhang\*, Guoxin Yu, Fandong Meng, Jie Zhou, Wai Lam, Mo Yu. <br>
 #### **2025**
-__\-__ *PRELUDE: A Benchmark Designed to Require Global Comprehension and Reasoning over Long Contexts.* Mo Yu, Tsz Ting Chung, __Chulun Zhou\*__, Tong Li, Rui Lu, Jiangnan Li, Liyan Xu, Haoshu Lu, Ning Zhang, Jing Li, Jie Zhou.  (Preprint). <br>
-__\-__ *The Essence of Contextual Understanding in Theory of Mind: A Study on Question Answering with Story Characters.* __Chulun Zhou\*__, Qiujing Wang\*, Mo Yu, Xiaoqian Yue, Rui Lu, Jiangnan Li, Yifan Zhou, Shunchi Zhang, Jie Zhou, Wai Lam. (ACL 2025). <br>
+__\-__ *PRELUDE: A Benchmark Designed to Require Global Comprehension and Reasoning over Long Contexts.* (Preprint)
+Mo Yu, Tsz Ting Chung, __Chulun Zhou\*__, Tong Li, Rui Lu, Jiangnan Li, Liyan Xu, Haoshu Lu, Ning Zhang, Jing Li, Jie Zhou. <br>
+__\-__ *The Essence of Contextual Understanding in Theory of Mind: A Study on Question Answering with Story Characters.* (ACL 2025)
+__Chulun Zhou\*__, Qiujing Wang\*, Mo Yu, Xiaoqian Yue, Rui Lu, Jiangnan Li, Yifan Zhou, Shunchi Zhang, Jie Zhou, Wai Lam. <br>
 #### **2023**
 __\-__ *HyperNetwork-based Decoupling to Improve Model Generalization for Few-Shot Relation Extraction.* Liang Zhang\*, __Chulun Zhou\*__, Fandong Meng, Jinsong Su, Yidong Chen, Jie Zhou. (EMNLP 2023). <br>
 __\-__ *A Multi-Task Multi-Stage Transitional Training Framework for Neural Chat Translation.* **Chulun Zhou**, Yunlong Liang, Fandong Meng, Jie Zhou, Jinan Xu, Hongji Wang, Min Zhang, Jinsong Su. (TPAMI). <br>
