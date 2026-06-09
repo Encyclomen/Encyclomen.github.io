@@ -17,8 +17,10 @@ Natural Language Processing, Large Language Models, Machine Translation, Multimo
 Publications
 ------
 #### **2026**
-__\-__ *Improving Multi-step RAG with Hypergraph-based Memory for Long-Context Complex Relational Modeling.*  (Preprint) <br>
+__\-__ *HGMem: Hypergraph-based Working Memory to Improve Multi-step RAG for Long-Context Complex Relational Modeling.*  (ICML 2026) <br>
 __Chulun Zhou\*__, Chunkang Zhang\*, Guoxin Yu, Fandong Meng, Jie Zhou, Wai Lam, Mo Yu.
+__\-__ *Judge Like Human Examiners: A Weighted Importance Multi-Point Evaluation Framework for Generative Tasks with Long-form Answers.* (Preprint) <br>
+Guoxin Yu\*, __Chulun Zhou\*__, Lemao Liu, Qi Wang, Mo Yu, Jialong Tang, Baosong Yang, Xiang Ao, Wai Lam, Yue Yu. <br>
 #### **2025**
 __\-__ *PRELUDE: A Benchmark Designed to Require Global Comprehension and Reasoning over Long Contexts.* (Preprint)<br>
 Mo Yu, Tsz Ting Chung, __Chulun Zhou\*__, Tong Li, Rui Lu, Jiangnan Li, Liyan Xu, Haoshu Lu, Ning Zhang, Jing Li, Jie Zhou. <br>
